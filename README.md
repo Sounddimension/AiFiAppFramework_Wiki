@@ -1,1 +1,1 @@
-This is a test wiki and doesnt actualy contain valid documentation
+This repository is only here to hold the gathered all documentation related to AiFiStreaming framework
